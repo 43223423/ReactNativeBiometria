@@ -1,0 +1,25 @@
+--- Bem-Vindo ---
+
+    Este projeto tem como foco a funcionalidade de 
+            Biometria no React Native.
+
+=-= Bibliotecas 
+
+# Biometria:
+    npx expo install expo-local-authentication
+
+# Navigation:
+    yarn add @react-navigation/stack
+    yarn add @react-navigation/native
+
+# Storage:
+    npm i @react-native-async-storage/async-storage
+=-=
+
+Obrigado por ver meu projeto  :)
+
+=-= Contatos: 
+
+    Git: https://github.com/43223423/
+
+    LinkeDin: https://linkedin.com/in/thiago-49213b24b
